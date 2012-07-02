@@ -1,8 +1,11 @@
 {
-	"name":			"HeroHub-TestRepo",
-	"version":		"0.0.1",
+	"name":				"HeroHub-TestRepo",
+	"version":			"0.0.1",
 	"engines": {
-		"node":		">=0.8.1",
-		"npm":		">=1.1.9"
+		"node":			">=0.8.1",
+		"npm":			">=1.1.9"
+	},
+	"dependencies": {
+		"coffee-script":	">=1.3.3"
 	}
 }
