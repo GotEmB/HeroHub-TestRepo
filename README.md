@@ -31,3 +31,4 @@ Why? 'Cos the plot's over but my debugging is not... :|
 * Roger Cross as Travis Verta (Liber8 member)
 * Lexa Doig as Sonya Valentine (Liber8 member)
 * Tony Amendola as Edouard Kagame (Liber8 leader)
+* Omari Newton as Lucas Ingram (Liber8 member)
