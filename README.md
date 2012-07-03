@@ -16,3 +16,4 @@ However, in sixty years' time, an elderly Alec Sadler is actually the head of th
 Young Alec points out that there are essentially two possibilities.
 The first is that this is a time loop, and elderly Alex in 2077 had already met Kiera, remembered everything they did together, and was possibly even inspired to create cybernetic technology from encountering "his" future work in her implants.
 In this case, nothing can be changed, and the mega-corporations will still dominate the planet in 2077.
+The second possibility is that the time travel of the terrorists and Kiera has altered the pre-existing timeline, and due to their intervention it is no longer certain what 2077 will be like.
