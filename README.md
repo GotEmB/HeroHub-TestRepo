@@ -33,3 +33,4 @@ Why? 'Cos the plot's over but my debugging is not... :|
 * Tony Amendola as Edouard Kagame (Liber8 leader)
 * Omari Newton as Lucas Ingram (Liber8 member)
 * Luvia Petersen as Jasmine Garza (Liber8 member)
+* Jennifer Spence as Betty Robertson (VPD Detective)
