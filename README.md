@@ -11,3 +11,4 @@ The future of 2077 is a dystopian one in which world governments have collapsed 
 The moral dilemma this presents is that the group of eight from 2077 (who call themselves "Liber8"), while self-admittedly having killed tens of thousands of people as colateral, consider themselves to be freedom fighters against the Orwellian corporate regime that dominates their time.
 
 After Kiera goes back in time, she finds out that she can communicate with a young Alec Sadler using her wireless technology.
+Sadler is famous in her time for inventing this technology.
