@@ -12,3 +12,4 @@ The moral dilemma this presents is that the group of eight from 2077 (who call t
 
 After Kiera goes back in time, she finds out that she can communicate with a young Alec Sadler using her wireless technology.
 Sadler is famous in her time for inventing this technology.
+However, in sixty years' time, an elderly Alec Sadler is actually the head of the mega-corporation Sadtech, whose technology may (inadvertently or otherwise) have been used to send Kiera and the others back in time.
