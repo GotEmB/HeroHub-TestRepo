@@ -24,3 +24,4 @@ Yet another possibility is that Old Alec, based on his earlier experiences (as Y
 Why? 'Cos the plot's over but my debugging is not... :|
 
 ### Main Cast
+* Rachel Nichols as Kiera Cameron (CPS Protector)
