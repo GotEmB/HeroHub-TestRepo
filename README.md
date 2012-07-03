@@ -24,7 +24,7 @@ Yet another possibility is that Old Alec, based on his earlier experiences (as Y
 Why? 'Cos the plot's over but my debugging is not... :|
 
 ### Main Cast
-* Rachel Nichols as Kiera Cameron (CPS Protector)
+* **Rachel Nichols** as *Kiera Cameron* (CPS Protector)
 * Victor Webster as Carlos Fonnegra (VPD Detective)
 * Erik Knudsen as Alec Sadler (2012)
 * Stephen Lobo as Matthew Kellog (former Liber8 member)
