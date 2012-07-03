@@ -30,3 +30,4 @@ Why? 'Cos the plot's over but my debugging is not... :|
 * Stephen Lobo as Matthew Kellog (former Liber8 member)
 * Roger Cross as Travis Verta (Liber8 member)
 * Lexa Doig as Sonya Valentine (Liber8 member)
+* Tony Amendola as Edouard Kagame (Liber8 leader)
