@@ -18,3 +18,4 @@ The first is that this is a time loop, and elderly Alex in 2077 had already met 
 In this case, nothing can be changed, and the mega-corporations will still dominate the planet in 2077.
 The second possibility is that the time travel of the terrorists and Kiera has altered the pre-existing timeline, and due to their intervention it is no longer certain what 2077 will be like.
 The first possibility more closely matches the fact that the 2077 version of Alec Sadler was the only witness to the escape of the Liber8 who seemed totally unsurprised as events unfolded early in episode one.
+Yet another possibility is that Old Alec, based on his earlier experiences (as Young Alec), knew that the rebels would make the time jump, and that he actually supports their actions.
