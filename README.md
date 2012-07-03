@@ -6,3 +6,4 @@ Why? Because I need to commit something.
 So let's start.
 
 When a group of rebels convicted as terrorists escapes execution by fleeing from the year 2077 to 2012, Kiera Cameron (Rachel Nichols), a future Vancouver law enforcement officer (called Protector), is involuntarily transported with them.
+In order to track them down and keep them from changing the past (and presumably future), Kiera joins the local police force and uses the skills of a young tech expert, Alec Sadler (Erik Knudsen).
