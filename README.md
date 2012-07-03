@@ -27,3 +27,4 @@ Why? 'Cos the plot's over but my debugging is not... :|
 * Rachel Nichols as Kiera Cameron (CPS Protector)
 * Victor Webster as Carlos Fonnegra (VPD Detective)
 * Erik Knudsen as Alec Sadler (2012)
+* Stephen Lobo as Matthew Kellog (former Liber8 member)
