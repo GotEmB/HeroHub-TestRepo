@@ -1,4 +1,4 @@
-A Test Repository for **GotEmB/HeroHub**. v0.2
+A Test Repository for **GotEmB/HeroHub**. v0.3
 
 ## Continuum — Plot
 Why? Because I need to commit something.
